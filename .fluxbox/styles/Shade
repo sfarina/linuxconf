@@ -1,0 +1,117 @@
+background:	flat 
+background.color: #101214
+toolbar:                        flat solid
+toolbar.color:                  rgb:6/6/6
+toolbar.button:                 flat solid
+toolbar.button.color:           rgb:8/8/7
+toolbar.button.picColor:        rgb:2/2/2
+toolbar.label:                  flat solid
+toolbar.label.color:            rgb:8/8/7
+toolbar.label.textColor:        rgb:2/2/1c
+toolbar.windowLabel:            flat solid
+toolbar.windowLabel.color:      rgb:8/8/7
+toolbar.windowLabel.textColor:  rgb:2/2/1c
+toolbar.clock:                  flat solid
+toolbar.clock.color:            rgb:8/8/7
+toolbar.clock.textColor:        rgb:2/2/1c
+toolbar.justify:                center
+toolbar.font:                   lucidasans-10
+toolbar.Height:                 18
+
+#menu.title:                     flat solid
+menu.title.color:               rgb:8/8/7
+#menu.title.textColor:           rgb:2/2/1c
+#menu.title.font:                lucidasans-10
+#menu.title.justify:             right
+#
+#menu.frame:                     flat solid
+#menu.frame.color:               rgb:6/6/6
+#menu.frame.textColor:           rgb:2/2/1c
+#menu.frame.disableColor:        rgb:2/2/1c
+#menu.frame.font:                lucidasans-10
+#menu.frame.justify:             left
+#
+#menu.bullet.position:           right
+#menu.bullet:                    triangle
+#
+#menu.hilite:                    flat solid
+#menu.hilite.color:              rgb:4/4/4
+#menu.hilite.textColor:          black
+
+
+menu.frame.font:                lucidasans-9:bold
+menu.title.font:                lucidasans-10:bold
+menu.bevelWidth:                1
+#menu.itemHeight:                35
+#menu.titleHeight:                21
+menu.borderColor:                #000000
+menu.borderWidth:                1
+menu.bullet.position:                Right
+menu.bullet:                triangle
+menu.frame.underlineColor:                #6f6f6f
+
+menu.title:                flat
+menu.title.justify:                center
+menu.title.color:                #CCC7CF
+menu.title.textColor:                #20201C
+menu.frame:                flat solid
+menu.frame.justify:                left
+menu.frame.color:                #f6f3ef
+menu.frame.textColor:                #6f6f6f
+menu.frame.disableColor:                #6f5cb7
+menu.hilite:                flat
+menu.hilite.color:                #d3d2e0
+menu.hilite.textColor:                #000000
+
+
+window.title.focus:             flat solid
+window.title.focus.color:       rgb:C/6/C
+window.title.unfocus:           flat solid
+window.title.unfocus.color:     rgb:4/4/4
+window.title.Height:                18
+window.title.font:                lucidasans-10:bold
+
+window.label.focus:             flat solid
+window.label.focus.color:       rgb:a/a/9
+window.label.focus.textColor:   rgb:2/2/1c
+window.label.unfocus:           flat solid
+window.label.unfocus.color:     rgb:3/3/3
+window.label.unfocus.textColor: rgb:0/0/0
+
+window.button.focus:            flat solid
+window.button.focus.color:      rgb:a/a/9
+window.button.focus.picColor:   rgb:2/2/2
+window.button.unfocus:          flat solid
+window.button.unfocus.color:    rgb:3/3/3
+window.button.unfocus.picColor: rgb:2/2/2
+
+window.handle.focus:            flat solid
+window.handle.focus.color:      rgb:8/8/7
+window.handle.unfocus:          flat solid
+window.handle.unfocus.color:    rgb:4/4/4
+
+window.grip.focus:              flat solid
+window.grip.focus.color:        rgb:a/a/9
+window.grip.unfocus:            flat solid
+window.grip.unfocus.color:      rgb:4/4/4
+
+window.frame.focusColor:        rgb:f/f/d
+window.frame.unfocusColor:      rgb:6/6/6
+
+window.font:                    lucidasans-10
+window.justify:                 center
+
+*button.pressed:                flat solid
+*button.pressed.color:          rgb:a/a/8c
+
+borderColor:                    rgb:2/2/2
+
+bevelWidth:                     1
+borderWidth:                    1
+handleWidth:                    2
+
+*textColor:                     black
+*Font:                          lucidasans-10
+
+#background: flat
+#background.color: rgb:4/4/4

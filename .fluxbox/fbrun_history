@@ -1,0 +1,6 @@
+gvim .fluxbox/keys
+fluxbox command reconfigure
+cbatticon
+vlc
+tilda
+gkrellm
