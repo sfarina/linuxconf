@@ -60,8 +60,8 @@ augroup resCur
 augroup END
 
 
+"" re-enable after installing vimplug
 "vimplug
-" re-enable after installing vimplug
-"call plug#begin('~/.vim/plugged')
-"Plug 'JuliaEditorSupport/julia-vim'
-"call plug#end()
+call plug#begin('~/.vim/plugged')
+Plug 'JuliaEditorSupport/julia-vim'
+call plug#end()

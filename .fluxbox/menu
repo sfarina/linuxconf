@@ -20,16 +20,17 @@
       [exec] (xterm) {xterm -bg black -fg white -fa "Source Code Pro Medium" -fs 10}
 		[exec] (tilda) {tilda}
       [exec] (Gkrellm) {gkrellm}
-      [exec] (QjackCTL) {qjackctl}
+#      [exec] (QjackCTL) {qjackctl}
       [exec] (Home) {rox}
 		[exec] (VLC) {vlc}
+		[exec] (Audacity) {audacity}
+      [exec] (Firefox) {firefox}
       [exec] (netsurf) {netsurf}
 [submenu] (Other Browsers)
       [exec] (qutebrowser) {qutebrowser}
       [exec] (dillo) {dillo duckduckgo.com}
       [exec] (midori) {midori}
       [exec] (falkon) {falkon}
-      [exec] (Firefox) {firefox}
 #      [exec] (Chrome) {chromium}
 [end]
 [submenu] (Fluxbox menu)

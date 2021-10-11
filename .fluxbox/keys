@@ -83,8 +83,8 @@ Mod1 space :WindowMenu
 Control Mod1 Delete :Exit
 
 # change to previous/next workspace
-Control Mod1 Left :PrevWorkspace
-Control Mod1 Right :NextWorkspace
+Control Left :PrevWorkspace
+Control Right :NextWorkspace
 
 #Move and resize windows to right and left side of the screen
 Mod1 Shift Left :MacroCmd {ResizeTo 50% 100%} {MoveTo 0% 0%}
